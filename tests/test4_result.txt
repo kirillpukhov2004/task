@@ -1,0 +1,12 @@
+09:00
+09:05 1 client1
+09:10 2 client1 1
+09:15 1 client2
+09:20 3 client2
+09:20 13 ICanWaitNoLonger!
+09:25 4 client1
+09:25 12 client2 1
+19:00 11 client2
+19:00
+1 110 09:50
+2 0 00:00
